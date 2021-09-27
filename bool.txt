@@ -1,0 +1,43 @@
+
+void main() {
+  
+//   int no = 14;
+//   double decimal =4.5;
+//   var both = {1.45,14};
+//   String any = "Razzaq";
+//   num anynum = 1.45;
+// print ("number is ${anynum}");  
+// BOOLEAn
+//   >,<,=,!=,&&,//
+  //      int age =15
+//    bool check = age>15;
+//    print(check); 
+  
+//   num a =1;
+//   num b= 2;
+//   num output=  a + b;
+//     num output=  a -  b;
+//     num output=  a *  b;
+//     num output=  a  / b;
+//     num output=  a  % b;
+//     num output=  a ~/  b;
+//   print("output is &{ouput}");
+  
+//   int x = 5;
+//   int y = ++x;
+//   print (y);
+  
+//   int x = 5
+//   int y = x++ + --x -x + x++ - x-- + ++x;
+// //          5 +  5 - 5 +  5  - 6   + 6
+//   print (y);
+   
+//     num a =1;
+//     num b= 2;
+//  if(a>b){
+//    print("a is greater than b");
+//  }else if(a<b){
+//    print("a is less than b");
+//    }else{
+//    print("not equal");
+//  }
